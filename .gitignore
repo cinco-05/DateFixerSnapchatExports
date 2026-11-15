@@ -1,0 +1,5 @@
+log.txt
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
